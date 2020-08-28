@@ -1,7 +1,6 @@
 #!/bin/bash
 echo "######################################################################"
-echo "#              RHEL 6 and CentOS 6 STIG Harding Script               #"
-echo "#            By Marko Sykes Thanks to OpenSCAP and Github            #"
+echo "#              RHEL 6 and CentOS 6 STIG Harding Script               #"            #"
 echo "######################################################################"
 echo "Are you sure you meant to run this script?"
 echo "This script does something drastic that you would severely regret if you happened to run this script by mistake!"
